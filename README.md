@@ -81,9 +81,3 @@ Dictionary insertion lowercases ASCII letters and splits on the punctuation list
 The supported build excludes the legacy harness. Course PDFs and the external corpus are not redistributed. Packaging supplies the previously missing node constructors, initializes empty-search counts, and makes dictionary exports reproducible snapshots.
 
 
-## Contributing and provenance
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for the contribution workflow and
-[NOTICE.md](NOTICE.md) for source provenance and reuse terms. Dataset licenses
-are separate from code rights. No open-source license was present in the supplied
-materials, so no blanket license has been added.
